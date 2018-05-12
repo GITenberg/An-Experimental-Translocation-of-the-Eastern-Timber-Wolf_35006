@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '37386'
     url: http://www.gutenberg.org/2009/agents/37386
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35006#An-Experimental-Translocation-of-the-Eastern-Timber-Wolf
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
