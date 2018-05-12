@@ -1,0 +1,42 @@
+_repo: An-Experimental-Translocation-of-the-Eastern-Timber-Wolf_35006
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mech, L. David
+    aliases:
+    - Mech, Dave
+    - Mech, David
+    gutenberg_agent_id: '37389'
+    url: http://www.gutenberg.org/2009/agents/37389
+  - agent_name: Hook, Richard A.
+    gutenberg_agent_id: '37388'
+    url: http://www.gutenberg.org/2009/agents/37388
+  - agent_name: Robinson, William Laughlin
+    alias: Robinson, William L.
+    birthdate: 1933
+    gutenberg_agent_id: '37387'
+    url: http://www.gutenberg.org/2009/agents/37387
+  - agent_name: Weise, Thomas F.
+    gutenberg_agent_id: '37386'
+    url: http://www.gutenberg.org/2009/agents/37386
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35006'
+  lccn: '78312125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Gray wolf -- Reintroduction -- Michigan'
+title: An Experimental Translocation of the Eastern Timber Wolf
+url: http://www.gutenberg.org/ebooks/35006
